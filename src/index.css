@@ -1,0 +1,32 @@
+.task {
+    background-color: rgb(231, 225, 218);
+  }
+  .time {
+    background-color: burlywood;
+    color: white;
+  }
+  #logo {
+    margin: auto;
+    width: 20%;
+    text-align: center;
+  }
+  #logoDiv {
+    text-align: center;
+  }
+  #container {
+    width: 60%;
+    margin: auto;
+  }
+  #todo {
+    text-align: center;
+  }
+  td,
+  th {
+    width: 270px;
+  }
+  table {
+    border: 1px dotted black;
+    margin: auto;
+    text-align: center;
+  }
+  
